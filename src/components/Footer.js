@@ -17,9 +17,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Yogamatic.</li>
+        <li>&copy; DarpnAI.</li>
         <li>
-          Yoga and beyond!
+          AI for Social Good!
           
         </li>
       </ul>
