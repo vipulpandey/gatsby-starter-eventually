@@ -17,10 +17,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; DarpnAI.</li>
+        <li>&copy; Farms F4.</li>
         <li>
-          AI for Social Good!
-          
+          Highest Standard of Covid Safety!          
         </li>
       </ul>
     </footer>

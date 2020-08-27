@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Darpn AI', // <title>
+  siteTitle: 'Farm F4', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,20 +9,20 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/darpn-ai/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Darpn AI',
+  heading: 'Fresh From Farmers Farm',
   subHeading:
-    "Developing Gully Monitoring System(GMS) using Artificial Intelligence to tackle CoronaCrisis in India. For more  Information, Stay tuned.",
+    "Enjoy the freshness and goodness of fresh Vegetables and Fruits directly from nearby farms. Minimum chemicals & best hygiene. Now, available in Noida and Ghaziabad.",
   socialLinks: [
     
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/darpn_ai',
+      url: 'https://twitter.com/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/Statsmatter/',
+      url: 'https://www.facebook.com/freshfromfarmers.farms/',
     },
     {
       icon: 'fa-envelope-o',
